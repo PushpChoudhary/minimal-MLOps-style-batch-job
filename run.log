@@ -1,0 +1,7 @@
+2026-06-02 16:06:45 - INFO - Job started
+2026-06-02 16:06:45 - INFO - Config loaded & validated. Version: v1, Seed: 42, Window: 5
+2026-06-02 16:06:45 - INFO - Dataset loaded successfully. Rows: 10000
+2026-06-02 16:06:45 - INFO - Computing rolling mean with window 5
+2026-06-02 16:06:45 - INFO - Generating signals
+2026-06-02 16:06:45 - INFO - Metrics summary: signal_rate=0.4991, latency_ms=139
+2026-06-02 16:06:45 - INFO - Job ended with status: success
